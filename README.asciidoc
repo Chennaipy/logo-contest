@@ -2,6 +2,13 @@
 
 == Logo Design from Ranjith Kumar
 
+_______
+Yesterday's meetup, we were looking for ChennaiPy User Group logo
+designs, I hereby shared my logo design for Chennaipy user
+group... Please take a look share your thoughts... Please do share
+your logo design...
+_______
+
 image::ranjith1.png[]
 
 image::ranjith2.png[]
@@ -12,6 +19,23 @@ image::vishal.png[]
 
 == Logo Design from Vijay Kumar
 
+______
+The logo depicts the letters "Py" using patterns from Sikku Kolam, a
+traditional art form, native to Tamil Nadu. If you like it, feel free
+to improve upon it.
+
+\... clip ...
+
+Some advantages of this variant:
+
+  1. The logo is now a square, making it suitable for use as icons,
+     avatar images, etc.
+
+  2. The logo is not bad even at low resolutions, of 16x16, making it
+     suitable for use as favicons. Logo in 16x16 resolution:
+     https://www.dropbox.com/s/dy94fb2vjunki44/logo2-favicon.png?dl=0 
+______
+
 image::vijaykumar.png[]
 
 == Another Logo Design from Vishal Solanki
@@ -20,9 +44,23 @@ image::vishal2.png[]
 
 == Logo Design from Sruthi
 
+______
+This is my attempt at a logo. It was actually fun to design, one of my
+more legible better attempts at an ambigram.
+______
+
 image::sruthi.png[]
 
 == Logo Design from Rengaraj
+
+_______
+My Logo Hand sketch is converted in to svg by Vengatesh.S.
+
+\... clip ...
+
+There are four different Logo is there.
+Kindly feel free to comment.
+_______
 
 image::rengaraj.png[]
 
@@ -39,6 +77,16 @@ image::vishal3.png[]
 image::vinoth.png[]
 
 == Logo Design from Cool Dharma
+
+______
+i just created some logo for chennai python group.
+
+\... clip ...
+
+(Note: In the above logo i copied the background image from below
+link.
+http://api.ning.com/files/bIBgOihCJLCI7YNARhfA7JzcYAczD2Iw9jl4Er7FGDnmfmwLa9Fm34pizXU7ydISEa-VB2tr6fQwb0qnpATgpLHRwV1VEWIK/002004.jpg)
+______
 
 image::cool-dharma.png[]
 
