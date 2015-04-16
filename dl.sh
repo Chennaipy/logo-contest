@@ -33,3 +33,6 @@ convert orig/cool-dharma-orig.jpg -resize 400 cool-dharma.png
 
 wget -c -O orig/vengatesh-orig.png https://www.dropbox.com/s/rhw8zuoiawmvi5c/logo1.png?dl=1
 convert orig/vengatesh-orig.png -resize 400 vengatesh.png
+
+wget -c -O orig/manoj-orig.png https://farm9.staticflickr.com/8616/16068314274_f0f275da2f_k_d.jpg
+convert orig/manoj-orig.png -resize 400 manoj.png

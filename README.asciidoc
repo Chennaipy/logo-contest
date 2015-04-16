@@ -93,3 +93,7 @@ image::cool-dharma.png[]
 == Logo Design from Vengatesh
 
 image::vengatesh.png[]
+
+== Logo Design from Manoj Kumar
+
+image::manoj.png[]
