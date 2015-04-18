@@ -2,6 +2,11 @@
 
 == Logo Design from Ranjith Kumar
 
+*Code:* RANJITH
+
+image::ranjith1.png[]
+image::ranjith2.png[]
+
 _______
 Yesterday's meetup, we were looking for ChennaiPy User Group logo
 designs, I hereby shared my logo design for Chennaipy user
@@ -9,15 +14,17 @@ group... Please take a look share your thoughts... Please do share
 your logo design...
 _______
 
-image::ranjith1.png[]
-
-image::ranjith2.png[]
-
 == Logo Design from Vishal Solanki
+
+*Code:* VISHAL-SOLANKI-1
 
 image::vishal.png[]
 
 == Logo Design from Vijay Kumar
+
+*Code:* VIJAY-KUMAR
+
+image::vijaykumar.png[]
 
 ______
 The logo depicts the letters "Py" using patterns from Sikku Kolam, a
@@ -36,22 +43,29 @@ Some advantages of this variant:
      https://www.dropbox.com/s/dy94fb2vjunki44/logo2-favicon.png?dl=0 
 ______
 
-image::vijaykumar.png[]
-
 == Another Logo Design from Vishal Solanki
+
+*Code:* VISHAL-SOLANKI-2
 
 image::vishal2.png[]
 
 == Logo Design from Sruthi
+
+*Code:* SRUTHI
+
+image::sruthi.png[]
 
 ______
 This is my attempt at a logo. It was actually fun to design, one of my
 more legible better attempts at an ambigram.
 ______
 
-image::sruthi.png[]
 
 == Logo Design from Rengaraj
+
+*Code:* RENGARAJ-1
+
+image::rengaraj.png[]
 
 _______
 My Logo Hand sketch is converted in to svg by Vengatesh.S.
@@ -62,21 +76,29 @@ There are four different Logo is there.
 Kindly feel free to comment.
 _______
 
-image::rengaraj.png[]
-
 == Another Logo Design from Rengaraj
+
+*Code:* RENGARAJ-2
 
 image::rengaraj2.png[]
 
 == Logo Design from Vishal Subbiah
 
+*Code:* VISHAL-SUBBIAH
+
 image::vishal3.png[]
 
 == Logo Design from Vinoth
 
+*Code:* VINOTH
+
 image::vinoth.png[]
 
 == Logo Design from Cool Dharma
+
+*Code:* COOL-DHARMA
+
+image::cool-dharma.png[]
 
 ______
 i just created some logo for chennai python group.
@@ -88,12 +110,18 @@ link.
 http://api.ning.com/files/bIBgOihCJLCI7YNARhfA7JzcYAczD2Iw9jl4Er7FGDnmfmwLa9Fm34pizXU7ydISEa-VB2tr6fQwb0qnpATgpLHRwV1VEWIK/002004.jpg)
 ______
 
-image::cool-dharma.png[]
-
 == Logo Design from Vengatesh
+
+*Code:* VENGATESH
 
 image::vengatesh.png[]
 
 == Logo Design from Manoj Kumar
 
+*Code:* MANOJ-KUMAR
+
 image::manoj.png[]
+
+== Copyright
+
+The above works are the copyright of their respective owners.
